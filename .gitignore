@@ -1,0 +1,25 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Node.js dependencies (if you add npm later)
+node_modules/
+
+# Build outputs (if you add bundlers)
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables
+.env
