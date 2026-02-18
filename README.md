@@ -30,6 +30,10 @@ It allows users to log in, transfer money, request loans, and view transaction h
 
 This project reflects my current coding capability and is a learning milestone. Future versions may include persistent storage, charts, and advanced analytics.
 
+## 🔗 Live Demo
+
+[Try the Bankessentials here](https://nwankwomichael.github.io/Bankessentials/)
+
 ```
 
 ```

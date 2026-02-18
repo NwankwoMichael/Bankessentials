@@ -309,7 +309,7 @@ const formatTimer = function (num) {
   labelTimer.textContent = time;
 };
 
-timer = function (min = 0.1) {
+timer = function (min = 10) {
   //Initializing counter variable
   let counter = min * 60;
 
